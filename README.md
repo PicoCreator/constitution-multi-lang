@@ -16,8 +16,8 @@ This also provides an easy scalable way to get reliable translation pairs for AI
 
 ## Repo links
 
-Github: https://github.com/PicoCreator/constitution-multi-lang
-Huggingface: https://huggingface.co/datasets/picocreator/constitution-multi-lang
+- Github: https://github.com/PicoCreator/constitution-multi-lang
+- Huggingface: https://huggingface.co/datasets/picocreator/constitution-multi-lang
 
 ## How to contribute (a public contributor)
 
