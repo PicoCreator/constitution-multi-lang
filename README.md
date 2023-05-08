@@ -14,5 +14,18 @@ Additional in many cases, official goverment documents are "copyright free", rem
 
 This also provides an easy scalable way to get reliable translation pairs for AI training.
 
-## How to contribute
+## How to contribute (a public contributor)
 
+1) Obtain official copies, and/or links and place them within the respective country folder in `raw-copies`
+
+2) Cleanup and convert raw copies, into language markdown pairs. Line number content must 1:1 match one another into the `cleaned` folder.
+
+3) Submit a pull request.
+
+## How to followup with a completed contribution
+
+1) Validate the cleaned markdown pairs, and ensure they are 1:1 match with the official copies.
+
+2) Convert into translation training pairs, on the "vocab", "section", and "document" level. Generate the .jsonl files into the `parsed` folder.
+
+3) Split out some vocab and section pairs, for them to be used in validation dataset.
