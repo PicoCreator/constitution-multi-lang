@@ -14,13 +14,18 @@ Additional in many cases, official goverment documents are "copyright free", rem
 
 This also provides an easy scalable way to get reliable translation pairs for AI training.
 
+## Repo links
+
+Github: https://github.com/PicoCreator/constitution-multi-lang
+Huggingface: https://huggingface.co/datasets/picocreator/constitution-multi-lang
+
 ## How to contribute (a public contributor)
 
 1) Obtain official copies, and/or links and place them within the respective country folder in `raw-copies`
 
 2) Cleanup and convert raw copies, into language markdown pairs. Line number content must 1:1 match one another into the `cleaned` folder.
 
-3) Submit a pull request.
+3) Submit a pull request - via github
 
 ## How to followup with a completed contribution
 
