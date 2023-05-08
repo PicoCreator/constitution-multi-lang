@@ -34,3 +34,13 @@ Huggingface: https://huggingface.co/datasets/picocreator/constitution-multi-lang
 2) Convert into translation training pairs, on the "vocab", "section", and "document" level. Generate the .jsonl files into the `parsed` folder.
 
 3) Split out some vocab and section pairs, for them to be used in validation dataset.
+
+## Example
+
+Canada
+- has an english copy : https://laws-lois.justice.gc.ca/eng/const/FullText.html
+- and a french copy : https://laws-lois.justice.gc.ca/fra/const/TexteComplet.html
+
+The converted markdown pairs (for en/fr) would be:
+- https://github.com/PicoCreator/constitution-multi-lang/blob/main/cleaned/canada/fr.md
+- https://github.com/PicoCreator/constitution-multi-lang/blob/main/cleaned/canada/fr.md
