@@ -1,0 +1,724 @@
+Kort om loven:
+Grunnloven inneholder de grunnleggende rettslige bestemmelsene om Norges statsstyre. Den endres etter spesielle regler som er gitt i Grunnloven selv.
+
+Bestemmelsene i Grunnloven handler om forskjellige forhold: om monarkiet, om religionen og om de grunnleggende prinsippene Norge som stat skal styres etter.
+
+Grunnloven har bestemmelser om hvordan statsoverhodet (kongen eller dronningen) utpekes, om kongehuset og den kongelige familie, om hvordan medlemmene av regjeringen (statsrådet) blir rekruttert, hvilke oppgaver regjeringen har, hvordan de folkevalgte velges til Stortinget, hvordan Høyesteretts medlemmer blir utnevnt, hvordan statens øverste tjenestepersoner (embetsmenn) utnevnes og om maktfordelingen mellom statens organer. Grunnloven inneholder også bestemmelser om menneskerettigheter og om Stortingets kontroll med regjeringen og forvaltningen.
+
+På grunn av de spesielle reglene om hvordan Grunnlovens bestemmelser kan endres, står Grunnloven over vanlige lover. Grunnloven er den eneste loven som gjelder både på bokmål og nynorsk.
+
+På Lovdatas egne grunnlovssider (https://grunnloven.lovdata.no/) kan man finne mer informasjon om Grunnloven, blant annet historiske versjoner av bestemmelsene.
+
+Oppdatert 9. januar 2020.
+
+Kapitteloversikt:
+A. Om statsformen (§§ 1 - 2)
+B. Om den utøvende makt, kongen og den kongelige familie og om religionen (§§ 3 - 48)
+C. Om borgerrett og den lovgivende makt (§§ 49 - 85)
+D. Om den dømmende makt (§§ 86 - 91)
+E. Menneskerettigheter (§§ 92 - 113)
+F. Alminnelige bestemmelser (§§ 114 - 121)
+Grunnlovens tittel endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+
+gitt i riksforsamlingen på Eidsvoll den 17. mai 1814,
+
+slik den lyder etter senere endringer,
+
+senest stortingsvedtak av 12. januar 2023
+
+A. Om statsformen
+0	Overskriften endret ved grunnlovsvedtak 21 mai 2012 kunngjort ved res. 15 juni 2012 nr. 522, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 1.
+Kongeriket Norge er et fritt, selvstendig, udelelig og uavhendelig rike. Dets regjeringsform er innskrenket og arvelig monarkisk.
+
+0	Endret ved vedtak 18 nov 1905, grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 2.
+Verdigrunnlaget forblir vår kristne og humanistiske arv. Denne Grunnlov skal sikre demokratiet, rettsstaten og menneskerettighetene.
+
+0	Endret ved grunnlovsvedtak 21 juli 1851, 3 aug 1897, 1 nov 1956 kunngjort 23 nov 1956, 4 mai 1964 kunngjort 29 mai 1964, 21 mai 2012 kunngjort ved res. 15 juni 2012 nr. 522, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+B. Om den utøvende makt, kongen og den kongelige familie og om religionen
+0	Overskriften endret ved grunnlovsvedtak 21 mai 2012 kunngjort ved res. 15 juni 2012 nr. 522, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 3.
+Den utøvende makt er hos kongen eller hos dronningen, hvis hun har ervervet kronen etter bestemmelsene i § 6, § 7 eller § 48 i denne Grunnlov. Når den utøvende makt således er hos dronningen, har hun alle de rettigheter og plikter som ifølge denne Grunnlov og landets lover innehas av kongen.
+
+0	Endret ved grunnlovsvedtak 29 mai 1990 kunngjort ved res. 13 juli 1990 nr. 550, 2 feb 2006 kunngjort ved res. 3 mars 2006 nr. 270, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 4.
+Kongen skal alltid bekjenne seg til den evangelisk-lutherske religion.
+
+0	Endret ved grunnlovsvedtak 21 mai 2012 kunngjort ved res. 15 juni 2012 nr. 522, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 5.
+Kongens person kan ikke lastes eller anklages. Ansvarligheten påligger hans råd.
+
+0	Endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, 8 mai 2018 kunngjort ved res. 1 juni 2018 nr. 788.
+§ 6.
+Arvefølgen er lineal, således at bare i lovlig ekteskap født barn av konge eller dronning eller av en som selv er arveberettiget, kan arve, og at den nærmere linje går foran den fjernere og den eldre i linjen foran den yngre.
+
+Blant arveberettigede regnes også den ufødte, som straks inntar sitt tilbørlige sted i arvelinjen når han eller hun fødes til verden.
+
+Dog tilkommer arverett ikke noen som ikke er født i rett nedstigende linje fra den sist regjerende konge eller dronning eller fra dennes bror eller søster, eller selv er dennes bror eller søster.
+
+Når en til Norges krone arveberettiget prins eller prinsesse fødes, skal hans eller hennes navn og fødselstid tilkjennegis førstholdende storting og antegnes i dets protokoll.
+
+For dem som er født tidligere enn året 1971, gjelder dog denne Grunnlovs § 6 således som den ble vedtatt den 18. november 1905. For dem som er født tidligere enn året 1990, gjelder likevel at mann går foran kvinne.
+
+0	Endret ved vedtak 18 nov 1905, grunnlovsvedtak 29 mai 1990 kunngjort ved res. 13 juli 1990 nr. 550, 2 feb 2006 kunngjort ved res. 3 mars 2006 nr. 270, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 7.
+Er ingen arveberettiget prins eller prinsesse til, kan kongen foreslå sin etterfølger for Stortinget, som har rett til å bestemme valget hvis kongens forslag ikke bifalles.
+
+0	Endret ved vedtak 18 nov 1905, grunnlovsvedtak 29 mai 1990 kunngjort ved res. 13 juli 1990 nr. 550, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 8.
+Kongens myndighetsalder fastsettes ved lov.
+
+Så snart kongen har oppnådd den lovbestemte alder, erklærer han seg offentlig å være myndig.
+
+0	Endret ved vedtak 18 nov 1905, grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 9.
+Så snart kongen, som myndig, tiltrer regjeringen, avlegger han følgende ed for Stortinget: «Jeg lover og sverger å ville regjere kongeriket Norge i overensstemmelse med dets konstitusjon og lover, så sant hjelpe meg Gud den allmektige og allvitende!»
+
+Er intet storting på den tid samlet, nedlegges eden skriftlig i statsrådet og gjentas høytidelig av kongen på første storting.
+
+0	Endret ved grunnlovsvedtak 19 aug 1908, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 10.
+(Opphevet ved grunnlovsvedtak 14 mars 1908.)
+
+§ 11.
+Kongen skal bo innen riket, og han må ikke uten Stortingets samtykke oppholde seg utenfor riket lenger enn seks måneder ad gangen, med mindre han for sin person vil ha tapt retten til kronen.
+
+Kongen må ikke motta noen annen krone eller regjering uten Stortingets samtykke, hvortil fordres to tredjedeler av stemmene.
+
+0	Endret ved vedtak 18 nov 1905, grunnlovsvedtak 19 aug 1908, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 12.
+Kongen velger selv et råd av stemmeberettigede norske borgere. Dette råd skal bestå av en statsminister og i det minste syv andre medlemmer.
+
+Kongen fordeler forretningene blant statsrådets medlemmer således som han finner det tjenlig. Til å ta sete i statsrådet kan kongen ved overordentlige leiligheter foruten statsrådets sedvanlige medlemmer tilkalle andre norske borgere, men ingen medlemmer av Stortinget.
+
+Ektefeller, foreldre og barn eller to søsken må ikke på samme tid ha sete i statsrådet.
+
+0	Endret ved grunnlovsvedtak 5 juni 1873, 30 juni 1891, vedtak 18 nov 1905, grunnlovsvedtak 8 apr 1916 kunngjort 28 apr 1916, 15 mai 1919 kunngjort 24 mai 1919, 15 apr 1975 kunngjort 2 mai 1975, 2 feb 2006 kunngjort ved res. 3 mars 2006 nr. 270, 21 mai 2012 kunngjort ved res. 15 juni 2012 nr. 522, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 13.
+Under kongens reiser innen riket kan han overdra styret av riket til statsrådet. Dette skal føre regjeringen i kongens navn og på hans vegne. Det skal ubrytelig etterleve så vel bestemmelsene i denne Grunnlov som de særskilte dermed overensstemmende forskrifter, som kongen meddeler i instruksjon.
+
+Forretningene avgjøres ved stemmegivning, hvorved i tilfelle av stemmelikhet statsministeren eller i dennes fravær det første av de tilstedeværende medlemmer av statsrådet har to stemmer.
+
+Om de saker som statsrådet således avgjør, har det å gi innberetning til kongen.
+
+0	Endret ved grunnlovsvedtak 5 juni 1873, 30 juni 1891, vedtak 18 nov 1905, grunnlovsvedtak 18 aug 1911, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 14.
+Kongen kan utnevne statssekretærer til å bistå statsrådets medlemmer under utførelsen av deres gjøremål utenfor statsrådet. Den enkelte statssekretær handler på vegne av det medlem av statsrådet som han eller hun er knyttet til, i den utstrekning dette medlemmet bestemmer.
+
+0	Opphevet ved grunnlovsvedtak 30 juni 1891, tilføyd ved grunnlovsvedtak 1 juni 1976 kunngjort 18 juni 1976, endret ved grunnlovsvedtak 2 feb 2006 kunngjort ved res. 3 mars 2006 nr. 270, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, 1 juni 2022 kunngjort ved res. 22 juni 2022 nr. 1133.
+§ 15.
+Enhver som er medlem av statsrådet, har plikt til å innlevere sin avskjedssøknad etter at Stortinget har fattet beslutning om mistillit til vedkommende statsråd alene eller til det samlede statsråd.
+
+Kongen er forpliktet til å innvilge en slik avskjedssøknad.
+
+Når Stortinget har fattet beslutning om mistillit, kan bare de forretninger utføres som er nødvendige for en forsvarlig embetsførsel.
+
+0	Opphevet ved vedtak 18 nov 1905, tilføyd ved grunnlovsvedtak 20 feb 2007 kunngjort ved res. 30 mars 2007 nr. 364, endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 16.
+Alle innbyggere i riket har fri religionsutøvelse. Den norske kirke, en evangelisk-luthersk kirke, forblir Norges folkekirke og understøttes som sådan av staten. Nærmere bestemmelser om Kirkens ordning fastsettes ved Lov. Alle tros- og livssynssamfunn skal understøttes på lik linje.
+
+0	Endret ved grunnlovsvedtak 21 mai 2012 kunngjort ved res. 15 juni 2012 nr. 522, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 17.
+Kongen kan gi og oppheve anordninger som angår handel, toll, næringsveier og offentlig regulering; dog må de ikke stride mot konstitusjonen og de lover som Stortinget har gitt i samsvar med de etterfølgende §§ 76, 77, 78 og 79. De gjelder provisorisk til neste Storting.
+
+0	Endret ved grunnlovsvedtak 20 feb 2007 kunngjort ved res. 30 mars 2007 nr. 365 (ikr. 1 okt 2009), 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, 1 juni 2022 kunngjort ved res. 22 juni 2022 nr. 1133.
+§ 18.
+Kongen lar i alminnelighet innkreve de skatter og avgifter som Stortinget pålegger.
+
+0	Endret ved vedtak 18 nov 1905, grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 19.
+Kongen våker over at statens eiendommer og regalier anvendes og bestyres på den av Stortinget bestemte og for samfunnet nyttigste måte.
+
+0	Endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 20.
+Kongen har rett til i statsrådet å benåde forbrytere etter at dom er falt. Forbryteren kan velge å motta kongens nåde eller underkaste seg den idømte straff.
+
+I de saker som Stortinget anlegger for Riksretten, kan ingen annen benådning finne sted enn fritak for idømt dødsstraff, med mindre Stortinget har gitt samtykke til noe annet.
+
+0	Endret ved grunnlovsvedtak 29 nov 1862, 20 feb 2007 kunngjort ved res. 30 mars 2007 nr. 364, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 21.
+Kongen velger og beskikker, etter å ha hørt sitt statsråd, alle sivile og militære embetsmenn. Disse har lydighets- og troskapsplikt til konstitusjonen og kongen. De kongelige prinser må ikke bekle sivile embeter.
+
+0	Endret ved grunnlovsvedtak 28 juni 1889, 30 juni 1891, vedtak 18 nov 1905, grunnlovsvedtak 26 mars 1980 kunngjort 2 mai 1980, 21 mai 2012 kunngjort ved res. 15 juni 2012 nr. 522, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, 14 mai 2020 kunngjort ved res. 29 mai 2020 nr. 1087.
+§ 22.
+Statsministeren og statsrådets øvrige medlemmer samt statssekretærene kan uten foregående dom avskjediges av kongen etter at han har hørt statsrådets betenkning derom. Det samme gjelder for de embetsmenn som er ansatt ved statsrådets kontorer eller ved diplomatiet eller konsulatvesenet, sivile overøvrighetspersoner, sjefer for regimenter og andre militære korps, kommandanter på festninger og høystbefalende på krigsskip. Hvorvidt pensjon bør tilstås de således avskjedigede embetsmenn, avgjøres av det neste storting. I mellomtiden nyter de to tredjedeler av sin tidligere gasje.
+
+Andre embetsmenn kan bare suspenderes av kongen og skal da straks tiltales for domstolene. Men de må ikke avsettes uten etter dom og heller ikke forflyttes mot sin vilje.
+
+Alle embetsmenn kan uten foregående dom avskjediges når de har nådd en aldersgrense fastsatt ved lov. Det kan bestemmes ved lov at visse embetsmenn, som ikke er dommere, kan utnevnes på åremål.
+
+0	Endret ved grunnlovsvedtak 5 juni 1873, vedtak 18 nov 1905, grunnlovsvedtak 18 aug 1911, 1 juni 1976 kunngjort 18 juni 1976, 7 apr 1992 kunngjort ved res. 8 mai 1992 nr. 317, 21 mai 2012 kunngjort ved res. 15 juni 2012 nr. 522, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 23.
+Kongen kan tildele ordener til hvem han ønsker, til belønning for utmerkede fortjenester, og dette må offentlig kunngjøres. Men kongen kan ikke meddele annen rang eller tittel enn den som følger med ethvert embete. Ordenen fritar ingen for statsborgernes felles plikter og byrder, ei heller medfører den fortrinnsrett til statens embeter. De embetsmenn som avskjediges i nåde, beholder den tittel og rang de hadde i embetet. Dette gjelder likevel ikke statsrådets medlemmer eller statssekretærene.
+
+Ingen personlige eller blandede arvelige privilegier må tilstås noen for ettertiden.
+
+0	Endret ved grunnlovsvedtak 11 mai 1920 kunngjort 21 mai 1920, 1 juni 1976 kunngjort 18 juni 1976, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 24.
+Kongen velger og avskjediger etter eget omdømme sin hoffstat og sine hoffbetjenter.
+
+0	Endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 25.
+Kongen har høyeste befaling over rikets land- og sjømakt. Den må ikke forøkes eller forminskes uten Stortingets samtykke. Den må ikke overlates i fremmede makters tjeneste, og ingen fremmede makters krigsfolk, unntatt hjelpetropper imot fiendtlig overfall, må gis adgang til riket uten Stortingets samtykke.
+
+Landvernet og de øvrige tropper som ikke kan henregnes til linjetroppene, må aldri uten Stortingets samtykke brukes utenfor rikets grenser.
+
+Regjeringen har ikke rett til å bruke militær makt mot innbyggerne uten etter lov, med mindre en forsamling forstyrrer den offentlige ro og ikke øyeblikkelig oppløses etter at de lovbestemmelser som angår opprør, tre ganger høyt og tydelig er opplest for forsamlingen av den sivile øvrighet.
+
+0	Endret ved vedtak 18 nov 1905, grunnlovsvedtak 14 mars 1908, 29 okt 1917 kunngjort 9 nov 1917, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, 14 mai 2020 kunngjort ved res. 29 mai 2020 nr. 1085.
+§ 26.
+Kongen har rett til å innkalle tropper, begynne krig til forsvar av landet og slutte fred, inngå og oppheve forbund, sende og motta sendemenn.
+
+Traktater om saker som er av særlig stor viktighet, og i alle tilfeller traktater hvis iverksettelse etter Grunnloven nødvendiggjør en ny lov eller stortingsbeslutning, blir først bindende når Stortinget har gitt sitt samtykke dertil.
+
+0	Endret ved vedtak 18 nov 1905, grunnlovsvedtak 29 okt 1917 kunngjort 9 nov 1917, 26 mars 1931 kunngjort 10 apr 1931, 2 feb 2006 kunngjort ved res. 3 mars 2006 nr. 270, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 27.
+Alle statsrådets medlemmer skal, når de ikke har lovlig forfall, være nærværende i statsrådet. Ingen beslutning må tas der når ikke over halvdelen av antall medlemmer er til stede.
+
+0	Endret ved vedtak 18 nov 1905, grunnlovsvedtak 15 mai 1919 kunngjort 24 mai 1919, 21 mai 2012 kunngjort ved res. 15 juni 2012 nr. 522, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 28.
+Innstillinger om embetsutnevnelser og andre saker av viktighet skal foredras i statsrådet av det medlem til hvis fag de hører, og sakene skal ekspederes av ham eller henne i overensstemmelse med den beslutning som er tatt i statsrådet. Dog kan egentlige militære kommandosaker, i den utstrekning som kongen bestemmer, unntas fra behandling i statsråd.
+
+0	Endret ved grunnlovsvedtak 24 mars 1911, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 29.
+Forbyr lovlig forfall en statsråd å møte og foredra de saker som hører til hans eller hennes fag, skal disse foredras av en annen statsråd som kongen konstituerer.
+
+Hindres så mange ved lovlig forfall fra å møte at ikke mer enn halvdelen av det bestemte antall medlemmer er til stede, skal andre menn eller kvinner i nødvendig antall konstitueres til å ta sete i statsrådet.
+
+0	Endret ved vedtak 18 nov 1905, grunnlovsvedtak 1 mars 1922 kunngjort 10 mars 1922, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 30.
+I statsrådet føres protokoll over alle de saker som der forhandles. De diplomatiske saker som i statsrådet besluttes hemmeligholdt, innføres i en egen protokoll. Det samme gjelder de militære kommandosaker som i statsrådet besluttes hemmeligholdt.
+
+Enhver som har sete i statsrådet, er pliktig til med frimodighet å si sin mening, som kongen er forpliktet til å høre. Men det er denne forbeholdt å fatte beslutning etter sitt eget omdømme.
+
+Finner noe medlem av statsrådet at kongens beslutning strider mot statsformen eller rikets lover, er det en plikt å gjøre kraftige motforestillinger samt å tilføye sin mening i protokollen. Den som ikke slik har tilkjennegitt sin protest, anses å ha vært enig med kongen og er ansvarlig for dette, således som siden bestemmes, og kan av Stortinget settes under tiltale for Riksretten.
+
+0	Endret ved grunnlovsvedtak 24 mars 1911, 20 feb 2007 kunngjort ved res. 30 mars 2007 nr. 364, 27 mai 2010 kunngjort ved res. 18 juni 2010 nr. 823, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 31.
+Alle de beslutninger som kongen utferdiger, skal kontrasigneres for å være gyldige. I militære kommandosaker kontrasigneres beslutningene av den som har foredratt sakene, men ellers av statsministeren eller, hvis han eller hun ikke har vært til stede, av det første av statsrådets tilstedeværende medlemmer.
+
+0	Endret ved grunnlovsvedtak 5 juni 1873, vedtak 18 nov 1905, grunnlovsvedtak 15 aug 1911, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 32.
+De beslutninger som fattes av regjeringen under kongens fravær, utferdiges i kongens navn og undertegnes av statsrådet.
+
+0	Endret ved grunnlovsvedtak 5 juni 1873, 30 juni 1891, vedtak 18 nov 1905, grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 33.
+(Opphevet ved grunnlovsvedtak 14 mai 2020 kunngjort ved res. 29 mai 2020 nr. 1088, flyttet til § 120 a).
+
+0	Opphevet ved grunnlovsvedtak 24 okt 1908, tilføyd ved grunnlovsvedtak 24 mai 2016 kunngjort ved res. 10 juni 2016 nr. 615, opphevet ved grunnlovsvedtak 14 mai 2020 kunngjort ved res. 29 mai 2020 nr. 1088, flyttet til § 120 a.
+§ 34.
+Kongen gir bestemmelser om titler for dem som er arveberettiget til kronen.
+
+0	Endret ved grunnlovsvedtak 29 mai 1990 kunngjort ved res. 13 juli 1990 nr. 550, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 35.
+Så snart tronarvingen har fylt 18 år, er han eller hun berettiget til å ta sete i statsrådet, dog uten stemme eller ansvar.
+
+0	Endret ved grunnlovsvedtak 29 mai 1990 kunngjort ved res. 13 juli 1990 nr. 550, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 36.
+En til Norges krone arveberettiget prins eller prinsesse må ikke gifte seg uten kongens tillatelse. Heller ikke må han eller hun motta noen annen krone eller regjering uten kongens og Stortingets samtykke. Til Stortingets samtykke fordres to tredjedeler av stemmene.
+
+Handler han eller hun i strid med dette, taper vedkommende så vel som etterkommerne retten til Norges trone.
+
+0	Endret ved grunnlovsvedtak 19 aug 1908, 29 mai 1990 kunngjort ved res. 13 juli 1990 nr. 550, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 37.
+De kongelige prinser og prinsesser skal for sine personer ikke stå til ansvar for andre enn kongen eller hvem han forordner til dommer over dem.
+
+0	Endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 38.
+(Opphevet ved vedtak 18 nov 1905.)
+
+§ 39.
+Dør kongen og tronfølgeren ennå er umyndig, skal statsrådet straks innkalle Stortinget.
+
+0	Endret ved vedtak 18 nov 1905, grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 40.
+Inntil Stortinget er samlet og har anordnet regjeringen under kongens mindreårighet, forestår statsrådet rikets bestyrelse i overensstemmelse med Grunnloven.
+
+0	Endret ved vedtak 18 nov 1905, grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 41.
+Er kongen fraværende fra riket uten å være i felt, eller er han så syk at han ikke kan ivareta regjeringen, skal den som er nærmest arveberettiget til tronen, forestå regjeringen som kongemaktens midlertidige utøver, så fremt han eller hun har oppnådd den for kongen fastsatte myndighetsalder. I motsatt fall forestår statsrådet bestyrelsen av riket.
+
+0	Endret ved grunnlovsvedtak 10 jan 1863, vedtak 18 nov 1905, grunnlovsvedtak 29 mai 1990 kunngjort ved res. 13 juli 1990 nr. 550, 2 feb 2006 kunngjort ved res. 3 mars 2006 nr. 270, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 42.
+(Opphevet ved vedtak 18 nov 1905.)
+
+§ 43.
+Valget av formyndere som skal bestyre regjeringen for den umyndige konge, skal foretas av Stortinget.
+
+0	Endret ved vedtak 18 nov 1905, grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 44.
+Den prins eller prinsesse som i de tilfeller som er anført i § 41, forestår regjeringen, skal skriftlig avlegge følgende ed for Stortinget: «Jeg lover og sverger å ville forestå regjeringen i overensstemmelse med konstitusjonen og lovene, så sant hjelpe meg Gud den allmektige og allvitende!»
+
+Holdes ikke storting på den tid, nedlegges eden i statsrådet og tilstilles siden neste storting.
+
+Den prins eller prinsesse som en gang har avlagt eden, gjentar den ikke senere.
+
+0	Endret ved vedtak 18 nov 1905, grunnlovsvedtak 19 aug 1908, 8 apr 1910, 29 mai 1990 kunngjort ved res. 13 juli 1990 nr. 550, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 45.
+Så snart formyndernes statsstyrelse opphører, skal de overfor kongen og Stortinget avlegge regnskap for den.
+
+0	Endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 46.
+Unnlater vedkommende i overensstemmelse med § 39 straks å sammenkalle Stortinget, da påligger det Høyesterett som en ubetinget plikt så snart fire uker er forløpt, å foranstalte denne sammenkalling.
+
+0	Endret ved vedtak 18 nov 1905, grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 47.
+Bestyrelsen av den umyndige konges oppdragelse bør, hvis begge foreldrene er døde og ingen av dem har etterlatt noen skriftlig bestemmelse derom, fastsettes av Stortinget.
+
+0	Endret ved vedtak 18 nov 1905, grunnlovsvedtak 11 juni 1951 kunngjort 22 juni 1951, 29 mai 1990 kunngjort ved res. 13 juli 1990 nr. 550, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 48.
+Er kongestammen utdødd og ingen tronfølger utkåret, da skal en ny konge eller dronning velges av Stortinget. I mellomtiden forholdes med den utøvende makt etter § 40.
+
+0	Endret ved vedtak 18 nov 1905, grunnlovsvedtak 29 mai 1990 kunngjort ved res. 13 juli 1990 nr. 550, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+C. Om borgerrett og den lovgivende makt
+0	Overskriften endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 49.
+Folket utøver den lovgivende makt ved Stortinget. Stortingsrepresentantene velges gjennom frie og hemmelige valg.
+
+Innbyggerne har rett til å styre lokale anliggender gjennom lokale folkevalgte organer. Nærmere bestemmelser om det lokale folkevalgte nivå fastsettes ved lov.
+
+0	Endret ved grunnlovsvedtak 20 feb 2007 kunngjort ved res. 30 mars 2007 nr. 365 (ikr. 1 okt 2009), 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, 13 mai 2014 kunngjort ved res. 14 mai 2014 nr. 628, 31 mars 2016 kunngjort ved res. 22 apr 2016 nr. 404, 1 juni 2022 kunngjort ved res. 22 juni 2022 nr. 1133.
+§ 50.
+Stemmerett ved stortingsvalg har norske borgere som har fylt 18 år eller fyller 18 år i det året valgtinget holdes.
+
+I hvilken utstrekning norske borgere som på valgdagen er bosatt utenfor riket, men oppfyller vilkårene foran, har stemmerett, fastsettes ved lov.
+
+0	Endret ved grunnlovsvedtak ved lov 2 juni 1821, grunnlovsvedtak 4 juli 1884, 30 apr 1898, 1 juli 1907, 11 juni 1913 kunngjort 7 juli 1913, 23 okt 1920 kunngjort 6 nov 1920, 11 mai 1928 kunngjort 29 mai 1928, 5 juni 1946 kunngjort 13 juni 1946, 24 nov 1967 kunngjort 15 des 1967, 30 mai 1972 kunngjort 16 juni 1972, 23 nov 1978 kunngjort 22 des 1978, 17 jan 1980 kunngjort 15 feb 1980, 26 mai 2003 kunngjort ved res. 27 juni 2003 nr. 765, 2 feb 2006 kunngjort ved res. 3 mars 2006 nr. 270, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, 1 juni 2022 kunngjort ved res. 22 juni 2022 nr. 1133.
+§ 51.
+Regler om manntallsføringen og om innføringen av de stemmeberettigede i manntallet fastsettes ved lov.
+
+0	Endret ved grunnlovsvedtak 28 juni 1889, 16 des 1899, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 52.
+(Opphevet ved grunnlovsvedtak 26 okt 1954 kunngjort 12 nov 1954.)
+
+§ 53.
+(Opphevet ved grunnlovsvedtak 1 juni 2022 kunngjort ved res. 22 juni 2022 nr. 1133)
+
+0	Endret ved grunnlovsvedtak 6 juni 1877, 16 mars 1887, 22 mai 1902, 20 juni 1935 kunngjort 25 juni 1935, 26 okt 1954 kunngjort 12 nov 1954, 23 apr 1959 kunngjort 15 mai 1959, 17 jan 1980 kunngjort 15 feb 1980, 23 mai 2003 kunngjort ved res. 27 juni 2003 nr. 766, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, opphevet ved grunnlovsvedtak 1 juni 2022 kunngjort ved res. 22 juni 2022 nr. 1133.
+§ 54.
+Stortingsvalg holdes hvert fjerde år innen utgangen av september.
+
+Hvis det har skjedd noe ekstraordinært som er egnet til å hindre en vesentlig del av velgerne fra å stemme, kan Stortinget med stemmene fra to tredjedeler av Stortingets medlemmer forlenge valgtinget med inntil én dag eller utsette valgtinget.
+
+Forlengelse eller utsettelse kan vedtas bare så langt det er nødvendig for å sikre velgerne mulighet til å stemme. Valgtinget skal være avsluttet innen én måned etter den dag Kongen i statsråd har fastsatt som valgdag.
+
+Hvis Stortinget ikke kan samles, kan Kongen i statsråd forlenge valgtinget med inntil én dag eller utsette valgtinget i inntil syv dager på de samme vilkår som er nevnt i andre og tredje ledd.
+
+Hvis det har skjedd noe ekstraordinært som har hindret en vesentlig del av velgerne fra å stemme, kan det sittende Stortinget med stemmene fra to tredjedeler av medlemmene bestemme at det skal holdes omvalg. Omvalg kan vedtas bare så langt det er nødvendig for å sikre velgerne mulighet til å stemme. De valgte representantene blir sittende i vervet til omvalget er endelig godkjent.
+
+Et nyvalgt storting kan ikke omgjøre et tidligere stortings vedtak om at det skal holdes omvalg.
+
+0	Endret ved grunnlovsvedtak 13 aug 1857, 24 apr 1869, 11 juni 1898, 25 mai 1905, 8 juni 1907, 5 apr 1938 kunngjort 22 apr 1938, 10 feb 1959 kunngjort 27 feb 1959, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, 1 juni 2022 kunngjort ved res. 22 juni 2022 nr. 1133.
+§ 55.
+Valget skal gjennomføres på den måten som fastsettes ved lov.
+
+0	Endret ved grunnlovsvedtak 16 des 1899, 25 mai 1905, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, 1 juni 2022 kunngjort ved res. 22 juni 2022 nr. 1133.
+§ 56.
+Riket inndeles i 19 valgdistrikter.
+
+Grensene mellom valgdistriktene fastsettes ved lov.
+
+0	Opphevet ved grunnlovsvedtak 23 mars 1972 kunngjort 21 apr 1972, tilføyd ved grunnlovsvedtak 1 juni 2022 kunngjort ved res. 22 juni 2022 nr. 1133.
+§ 57.
+Det skal velges 169 stortingsrepresentanter.
+
+Det antall stortingsrepresentanter som skal velges fra hvert valgdistrikt, beregnes på grunnlag av forholdet mellom distriktets antall innbyggere samt areal, og hele rikets antall innbyggere samt areal. I denne beregning gir hver innbygger 1 poeng og hver kvadratkilometer 1,8 poeng.
+
+Alle valgdistrikter skal ha minst fire mandater.
+
+Mandatene skal fordeles mellom valgdistriktene hvert fjerde år.
+
+Nærmere bestemmelser om hvordan mandatene skal fordeles mellom valgdistriktene, fastsettes ved lov.
+
+0	Endret ved grunnlovsvedtak 26 nov 1859, 26 mai 1866, 6 juni 1878, 22 nov 1902, 25 mai 1905, 13 mars 1907, 26 juni 1917 kunngjort 6 juli 1917, 26 nov 1919 kunngjort 5 des 1919, 9 nov 1923 kunngjort 23 nov 1923, 26 nov 1952 kunngjort 12 des 1952, 30 mai 1972 kunngjort 16 juni 1972, 30 mai 1984 kunngjort ved res. 27 juli 1984 nr. 1479, 10 mai 1988 kunngjort ved res. 10 juni 1988 nr. 455, 26 mai 2003 kunngjort ved res. 27 juni 2003 nr. 767, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, 1 juni 2022 kunngjort ved res. 22 juni 2022 nr. 1133.
+§ 58.
+Valget holdes særskilt for hver kommune.
+
+0	Endret ved grunnlovsvedtak 26 nov 1859, 26 mai 1866, 6 juni 1878, 1 juli 1884, 22 nov 1902, 25 mai 1905, 26 juni 1917 kunngjort 6 juli 1917, 26 nov 1919 kunngjort 5 des 1919, 9 nov 1923 kunngjort 23 nov 1923, 26 nov 1952 kunngjort 12 des 1952, 30 mai 1972 kunngjort 16 juni 1972, 30 mai 1984 kunngjort ved res. 27 juli 1984 nr. 1479, 10 mai 1988 kunngjort ved res. 10 juni 1988 nr. 455, 26 mai 2003 kunngjort ved res. 27 juni 2003 nr. 768, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, 1 juni 2022 kunngjort ved res. 22 juni 2022 nr. 1133.
+§ 59.
+I hvert valgdistrikt skal én representant tildeles utjevningsmandat på grunnlag av stemmetallet i hele riket. De andre representantene i valgdistriktet tildeles direktemandater på grunnlag av stemmetallet i valgdistriktet.
+
+De direktevalgte representantene velges fra hvert valgdistrikt ved forholdstallsvalg etter Sainte-Laguës metode med 1,4 som det første delingstallet. Det parti som etter det foranstående får den største kvotient, tildeles det første mandat, mens det neste mandat tilfaller det parti som har den nest største kvotient, og således videre inntil alle mandater er fordelt.
+
+Utjevningsmandatene fordeles mellom de registrerte politiske partiene som har stilt liste i alle valgdistriktene og har fått minst fire prosent av de godkjente stemmene i hele riket.
+
+Utjevningsmandatene fordeles på grunnlag av partienes samlede stemmetall i hele riket. Stemmer og mandater til lister som ikke oppfyller kravene i tredje ledd, holdes utenfor. Det gjennomføres en beregning ved hjelp av Sainte-Laguës metode med 1,4 som det første delingstallet. Utjevningsmandatene går til de partiene som har fått færre direktevalgte mandater enn det som følger av denne beregningen.
+
+Nærmere bestemmelser om i hvilke valgdistrikter partiene skal få utjevningsmandatene, fastsettes ved lov.
+
+Listeforbund er ikke tillatt.
+
+0	Endret ved grunnlovsvedtak ved lov 8 feb 1816, grunnlovsvedtak 9 mai 1842, 25 mai 1905, 12 apr 1907, 3 juli 1913 kunngjort 13 juli 1917, 26 nov 1919 kunngjort 5 des 1919, 9 nov 1923 kunngjort 23 nov 1923, 30 mai 1972 kunngjort 16 juni 1972, 10 mai 1988 kunngjort ved res. 10 juni 1988 nr. 455, 26 mai 2003 kunngjort ved res. 27 juni 2003 nr. 769, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, 1 juni 2022 kunngjort ved res. 22 juni 2022 nr. 1133.
+§ 60.
+(Opphevet ved grunnlovsvedtak 1 juni 2022 kunngjort ved res. 22 juni 2022 nr. 1133)
+
+0	Endret ved grunnlovsvedtak 20 juni 1896, 25 mai 1905, 8 mars 1929 kunngjort 23 mars 1929, 2 feb 2006 kunngjort ved res. 3 mars 2006 nr. 270, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, opphevet ved grunnlovsvedtak 1 juni 2022 kunngjort ved res. 22 juni 2022 nr. 1133.
+§ 61.
+Ingen kan velges til representant uten å ha stemmerett.
+
+0	Endret ved grunnlovsvedtak 25 mai 1905, 1 juli 1913 kunngjort 7 juli 1913, 27 jan 1948 kunngjort 6 feb 1948, 26 nov 1952 kunngjort 12 des 1952, 24 nov 1967 kunngjort 15 des 1967, 26 mai 2003 kunngjort ved res. 27 juni 2003 nr. 770, 27 mai 2010 kunngjort ved res. 18 juni 2010 nr. 824, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, 1 juni 2022 kunngjort ved res. 22 juni 2022 nr. 1133.
+§ 62.
+De tjenestemenn som er ansatt ved statsrådets kontorer, bortsett fra statssekretærer og politiske rådgivere, kan ikke stille til valg. Heller ikke Høyesteretts medlemmer eller tjenestemenn som er ansatt i utenrikstjenesten, kan stille til valg.
+
+Statsrådets medlemmer, statssekretærer og politiske rådgivere ved statsrådets kontorer kan ikke møte som representanter på Stortinget.
+
+0	Endret ved grunnlovsvedtak 1 juli 1913 kunngjort 7 juli 1913, 11 mai 1928 kunngjort 29 mai 1928, 1 juni 1976 kunngjort 18 juni 1976, 26 mai 2003 kunngjort ved res. 27 juni 2003 nr. 771, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, 1 juni 2022 kunngjort ved res. 22 juni 2022 nr. 1133.
+§ 63.
+Alle plikter å la seg føre opp på en valgliste, med mindre de gir skriftlig melding om at de ikke ønsker å bli ført opp på den aktuelle valglisten. Regler for når og hvordan slik melding skal gis, fastsettes ved lov.
+
+Alle som velges til representanter, plikter å motta valget.
+
+De som velges til representanter for to eller flere valgdistrikter, skal gi melding om hvilket valg de vil motta. Regler for når og hvordan slik melding skal gis, fastsettes ved lov.
+
+0	Endret ved grunnlovsvedtak 24 apr 1869, 1 juli 1884, 25 mai 1905, 26 nov 1919 kunngjort 5 des 1919, 24 juni 1938 kunngjort 15 juli 1938, 26 nov 1952 kunngjort 12 des 1952, 30 mai 1984 kunngjort ved res. 27 juli 1984 nr. 1479, 29 mai 1990 kunngjort ved res. 13 juli 1990 nr. 550, 7 apr 1992 kunngjort ved res. 8 mai 1992 nr. 317, 26 mai 2003 kunngjort ved res. 27 juni 2003 nr. 772 (bokstav c opphevet), 2 feb 2006 kunngjort ved res. 3 mars 2006 nr. 270, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, 7 jan 2020 kunngjort ved res. 31 jan 2020 nr. 93, 1 juni 2022 kunngjort ved res. 22 juni 2022 nr. 1133.
+§ 64.
+De valgte representantene får tildelt fullmakter. Stortinget avgjør om fullmaktene er lovlige.
+
+Alle som har stilt liste ved stortingsvalget, kan klage på Stortingets avgjørelse. Nærmere bestemmelser om klagerett og klagegrunner fastsettes ved lov. Høyesterett avgjør klagene.
+
+Hvis Stortinget, Høyesterett eller riksvalgstyret kjenner valget ugyldig, blir de valgte representantene sittende i vervet inntil et omvalg er endelig godkjent.
+
+0	Endret ved grunnlovsvedtak 25 mai 1905, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, 1 juni 2022 kunngjort ved res. 22 juni 2022 nr. 1133.
+§ 65.
+Enhver representant og innkalt vararepresentant får av statskassen godtgjørelse bestemt ved lov for reiseomkostninger til og fra Stortinget og fra Stortinget til sitt hjem og tilbake igjen under ferier av minst 14 dagers varighet.
+
+Dessuten tilkommer det ham eller henne godtgjørelse, bestemt ved lov, for vedkommendes deltagelse i Stortinget.
+
+0	Endret ved grunnlovsvedtak 8 apr 1910, 26 nov 1919 kunngjort 5 des 1919, 15 okt 1923 kunngjort 26 okt 1923, 27 mai 1986 kunngjort ved res. 13 juni 1986 nr. 1279, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 66.
+Representantene er på sin reise til og fra Stortinget samt under sitt opphold der befriet fra personlig heftelse, med mindre de gripes i offentlige forbrytelser. Heller ikke kan de utenfor Stortingets forsamlinger trekkes til ansvar for sine ytrede meninger der. Etter den der vedtatte orden er enhver pliktig til å rette seg.
+
+0	Endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 67.
+De på forannevnte måte valgte representanter utgjør kongeriket Norges Storting.
+
+0	Endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 68.
+Stortinget trer sammen i alminnelighet den første hverdag i oktober måned hvert år i rikets hovedstad, med mindre kongen på grunn av overordentlige omstendigheter, for eksempel fiendtlig innfall eller smittsom syke, velger en annen by i riket. En slik bestemmelse må da betimelig bekjentgjøres.
+
+0	Endret ved grunnlovsvedtak 13 aug 1857, 24 apr 1869, 11 juni 1898, 8 juni 1907, 10 feb 1959 kunngjort 27 feb 1959, 2 feb 2006 kunngjort ved res. 3 mars 2006 nr. 270, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 69.
+Når Stortinget ikke er samlet, kan det sammenkalles av kongen dersom han finner det nødvendig.
+
+0	Endret ved grunnlovsvedtak 24 apr 1869, 8 apr 1916 kunngjort 28 apr 1916, 29 mai 1990 kunngjort ved res. 13 juli 1990 nr. 550, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 70.
+(Opphevet ved grunnlovsvedtak 29 mai 1990 kunngjort ved res. 13 juli 1990 nr. 550.)
+
+§ 71.
+De valgte representantene er medlemmer av Stortinget i fire sammenhengende år.
+
+0	Endret ved grunnlovsvedtak 24 apr 1869, 5 apr 1938 kunngjort 22 apr 1938, 29 mai 1990 kunngjort ved res. 13 juli 1990 nr. 550, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, 1 juni 2022 kunngjort ved res. 22 juni 2022 nr. 1133.
+§ 72.
+Etter hvert stortingsvalg oppnevner Stortinget et riksvalgstyre med fem medlemmer. Lederen og to andre medlemmer skal være dommere. Det skal oppnevnes tre felles varamedlemmer for de medlemmene som er dommere, og to felles varamedlemmer for de andre medlemmene.
+
+Riksvalgstyret fungerer i fire år fra 1. januar det andre årsskiftet etter stortingsvalget.
+
+Følgende personer kan ikke oppnevnes til riksvalgstyret:
+
+a.	medlemmer av regjeringen
+b.	medlemmer og varamedlemmer av Stortinget, fylkesting og kommunestyrer
+c.	statssekretærer og politiske rådgivere ved statsrådets kontorer og på Stortinget.
+Medlemmer og varamedlemmer av riksvalgstyret som stiller til valg til Stortinget, fylkestinget eller kommunestyret, går ut av riksvalgstyret.
+
+Stortinget kan løse et medlem eller varamedlem fra vervet når han eller hun ber om det av personlige grunner eller grovt har krenket plikter som følger med vervet.
+
+I særlige tilfeller kan Stortinget løse ett eller flere medlemmer eller varamedlemmer fra vervet hvis det er nødvendig for at riksvalgstyret skal ivareta sine oppgaver.
+
+Vedtak om å løse et medlem eller et varamedlem fra vervet fattes med to tredjedeler av stemmene, men med vanlig flertall når vedkommende selv ber om å bli løst fra vervet.
+
+Nærmere bestemmelser om riksvalgstyret fastsettes ved lov.
+
+0	Opphevet ved grunnlovsvedtak 29 mai 1990 kunngjort ved res. 13 juli 1990 nr. 550, tilføyd ved grunnlovsvedtak 1 juni 2022 kunngjort ved res. 22 juni 2022 nr. 1133.
+§ 73.
+Stortinget utnevner en president, fem visepresidenter og to sekretærer. Storting kan ikke holdes med mindre minst halvdelen av dets medlemmer er til stede. Grunnlovsforslag kan behandles bare dersom minst to tredjedeler av Stortingets medlemmer er til stede.
+
+0	Endret ved grunnlovsvedtak 24 apr 1869, 13 apr 1926 kunngjort 30 apr 1926, 1 juni 1931 kunngjort 5 juni 1931, 29 mai 1990 kunngjort ved res. 13 juli 1990 nr. 550, 20 feb 2007 kunngjort ved res. 30 mars 2007 nr. 365 (ikr. 1 okt 2009), 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 74.
+Så snart Stortinget har konstituert seg, åpner kongen eller den han beskikker, dets forhandlinger med en tale der han underretter det om rikets tilstand og de forhold som han især ønsker å lede Stortingets oppmerksomhet mot. Ingen deliberasjon må finne sted i kongens nærvær.
+
+Når Stortingets forhandlinger er åpnet, har statsministeren og statsrådene rett til å møte i Stortinget og på linje med dets egne medlemmer, dog uten å avgi stemme, delta i forhandlingene for så vidt disse holdes for åpne dører, men i de saker som forhandles for lukkede dører, bare for så vidt Stortinget måtte tilstede det.
+
+0	Endret ved grunnlovsvedtak 24 apr 1869, 1 juli 1884, vedtak 18 nov 1905, grunnlovsvedtak 20 feb 2007 kunngjort ved res. 30 mars 2007 nr. 365 (ikr. 1 okt 2009), 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 75.
+Det tilkommer Stortinget
+
+a.	å gi og oppheve lover; å pålegge skatter, avgifter, toll og andre offentlige byrder, som dog ikke gjelder ut over 31. desember i det nærmest påfølgende år, med mindre de uttrykkelig fornyes av et nytt storting;
+b.	å åpne lån på rikets kreditt;
+c.	å føre oppsyn med rikets pengevesen;
+d.	å bevilge de pengesummer som er nødvendige for å dekke statens utgifter;
+e.	å bestemme hvor mye som årlig skal utbetales kongen til hans hoffstat, og fastlegge den kongelige families apanasje, som imidlertid ikke må bestå i faste eiendommer;
+f.	å la seg forelegge statsrådets protokoller og alle offentlige innberetninger og papirer;
+g.	å la seg meddele de forbund og traktater som kongen på statens vegne har inngått med fremmede makter;
+h.	å kunne fordre enhver til å møte for seg i statssaker, kongen og den kongelige familie unntatt; dog gjelder denne unntagelse ikke for de kongelige prinser og prinsesser for så vidt de måtte bekle embeter;
+i.	å revidere midlertidige gasje- og pensjonslister og gjøre de forandringer i dem som Stortinget finner nødvendige;
+k.	å utnevne fem revisorer som årlig skal gjennomse statens regnskaper og bekjentgjøre ekstrakter av dem ved trykken; regnskapene skal tilstilles disse revisorer innen seks måneder etter utgangen av det år som Stortingets bevilgninger er gitt for; samt å treffe bestemmelser angående ordningen av desisjonsmyndigheten overfor statens regnskapsbetjenter;
+l.	å utnevne en person som ikke er medlem av Stortinget, til på en måte som er nærmere bestemt i lov, å føre kontroll med den offentlige forvaltning og alle som virker i dens tjeneste, for å søke å sikre at det ikke øves urett mot den enkelte borger;
+m.	å naturalisere fremmede.
+0	Endret ved grunnlovsvedtak 13 aug 1857, 24 apr 1869, 22 juni 1880, 30 juni 1891, 11 juni 1898, vedtak 18 nov 1905, grunnlovsvedtak 8 juni 1907, 24 mars 1911, 8 apr 1916 kunngjort 28 apr 1916, 7 des 1917 kunngjort 14 des 1917, 10 feb 1959 kunngjort 27 feb 1959, 9 feb 1967 kunngjort 23 feb 1967, 29 mai 1990 kunngjort ved res. 13 juli 1990 nr. 550, 7 juni 1995 kunngjort ved res. 23 juni 1995 nr. 567, 2 feb 2006 kunngjort ved res. 3 mars 2006 nr. 270, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 76.
+Enhver lov skal først foreslås på Stortinget enten av dets egne medlemmer eller av regjeringen ved en statsråd.
+
+Etter at forslaget der er antatt, skal ny deliberasjon finne sted i Stortinget, som enten godkjenner eller forkaster det. I siste tilfelle skal forslaget, med de av Stortinget tilføyde anmerkninger, på ny tas under overveielse av Stortinget, som enten henlegger forslaget eller antar det med de nevnte anmerkninger.
+
+Mellom hver slik deliberasjon må det gå minst tre dager.
+
+0	Endret ved grunnlovsvedtak 20 feb 2007 kunngjort ved res. 30 mars 2007 nr. 365 (ikr. 1 okt 2009), 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 77.
+Når en lovbeslutning to på hinannen følgende ganger er bifalt av Stortinget, sendes det til kongen med anmodning om hans sanksjon.
+
+0	Endret ved grunnlovsvedtak 30 juni 1891, 6 juli 1891, vedtak 18 nov 1905, grunnlovsvedtak 25 juni 1913 kunngjort 7 juli 1913, 20 feb 2007 kunngjort ved res. 30 mars 2007 nr. 365 (ikr. 1 okt 2009), 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 78.
+Godtar kongen lovbeslutningen, forsyner han den med sin underskrift, hvorved den blir lov.
+
+Godtar han den ikke, sender han den tilbake til Stortinget med den erklæring at han for tiden ikke finner det tjenlig å sanksjonere den. I dette tilfelle må beslutningen ikke mer av det da samlede storting forelegges kongen.
+
+0	Endret ved grunnlovsvedtak 24 apr 1869, 25 juni 1913 kunngjort 7 juli 1913, 20 feb 2007 kunngjort ved res. 30 mars 2007 nr. 365 (ikr. 1 okt 2009), 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 79.
+Er en lovbeslutning blitt uforandret antatt av to storting, sammensatt etter to på hinannen følgende valg og innbyrdes adskilt ved minst to mellomliggende storting, uten at avvikende lovbeslutning i mellomtiden fra den første til den siste antagelse er fattet av noe storting, og den da forelegges kongen med begjæring om at Hans Majestet ikke vil nekte en lovbeslutning sin sanksjon, som Stortinget etter det modneste overlegg anser for gagnlig, så blir den lov selv om kongens sanksjon ikke gis innen Stortinget adskilles.
+
+0	Endret ved grunnlovsvedtak 24 apr 1869, 25 juni 1913 kunngjort 7 juli 1913, 5 apr 1938 kunngjort 22 apr 1938, 29 mai 1990 kunngjort ved res. 13 juli 1990 nr. 550, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 80.
+Stortinget forblir samlet så lenge det finner det nødvendig, og innstiller forhandlingene når det har tilendebrakt sine forretninger.
+
+I overensstemmelse med Stortingets forretningsorden kan forhandlingene gjenopptas, men de opphører senest siste hverdag i september måned.
+
+Innen denne tid meddeler kongen sin resolusjon på de lovbeslutninger som ikke allerede er avgjort, ved enten å stadfeste eller å forkaste dem. Alle de som han ikke uttrykkelig antar, anses for av ham å være forkastet.
+
+0	Endret ved grunnlovsvedtak 24 apr 1869, 12 mars 1908, 25 juni 1913 kunngjort 7 juli 1913, 29 mai 1990 kunngjort ved res. 13 juli 1990 nr. 550, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 81.
+Alle lover (de i § 79 unntatt) utferdiges i kongens navn, under Norges rikes segl og i følgende uttrykk: «Vi N.N. gjør vitterlig: at Oss er blitt forelagt Stortingets beslutning, av dato sålydende: (her følger beslutningen). Ti har Vi antatt og bekreftet, likesom Vi herved antar og bekrefter samme som lov, under Vår hånd og rikets segl.»
+
+0	Endret ved grunnlovsvedtak 27 juni 1908, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 82.
+Regjeringen skal meddele Stortinget alle de opplysninger som er nødvendige for behandlingen av de saker den fremlegger. Intet medlem av statsrådet må fremlegge uriktige eller villedende opplysninger for Stortinget eller dets organer.
+
+0	Opphevet ved grunnlovsvedtak 25 juni 1913 kunngjort 7 juli 1913, tilføyd igjen ved grunnlovsvedtak 20 feb 2007 kunngjort ved res. 30 mars 2007 nr. 364, endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 83.
+Stortinget kan innhente Høyesteretts betenkning om juridiske emner.
+
+0	Endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 84.
+Stortinget holdes for åpne dører, og dets forhandlinger kunngjøres ved trykken, unntatt i de tilfeller hvor det motsatte bestemmes ved stemmeflertall.
+
+0	Endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 85.
+Den som adlyder en befaling hvis hensikt er å forstyrre Stortingets frihet og sikkerhet, gjør seg derved skyldig i forræderi mot fedrelandet.
+
+0	Endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+D. Om den dømmende makt
+0	Overskriften endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 86.
+Riksretten dømmer i første og siste instans i de saker som Stortinget anlegger mot statsrådets, Høyesteretts eller Stortingets medlemmer for straffbart eller annet rettsstridig forhold når de har brutt sine konstitusjonelle plikter.
+
+De nærmere regler for Stortingets påtale etter denne paragraf fastsettes ved lov. Dog kan det ikke settes kortere foreldelsesfrist enn 15 år for adgangen til å gjøre ansvar gjeldende ved tiltale for Riksretten.
+
+Dommere i Riksretten er 6 medlemmer valgt av Stortinget og de 5 etter embetsalder eldste, fast utnevnte medlemmer av Høyesterett, deriblant Høyesteretts justitiarius. Stortinget velger medlemmene og stedfortrederne for 6 år. Et medlem av statsrådet eller Stortinget kan ikke velges til medlem av Riksretten. I Riksretten har Høyesteretts justitiarius forsetet.
+
+Den som har tatt sete i Riksretten som valgt av Stortinget, trer ikke ut av retten selv om den tid han eller hun er valgt for, utløper før Riksrettens behandling av saken er tilendebrakt. Heller ikke en høyesterettsdommer som er medlem av Riksretten, trer ut av retten selv om han eller hun fratrer som medlem av Høyesterett.
+
+0	Endret ved grunnlovsvedtak 19 aug 1908, 25 feb 1911, 15 jan 1932 kunngjort 29 jan 1932, 20 feb 2007 kunngjort ved res. 30 mars 2007 nr. 364, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 87.
+De nærmere forskrifter om sammensetningen av Riksretten og saksbehandlingen fastsettes ved lov.
+
+0	Endret ved grunnlovsvedtak 15 jan 1932 kunngjort 29 jan 1932, 2 feb 2006 kunngjort ved res. 3 mars 2006 nr. 270, 20 feb 2007 kunngjort ved res. 30 mars 2007 nr. 364, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 88.
+Høyesterett dømmer i siste instans. Dog kan innskrenkninger i adgangen til å få Høyesteretts avgjørelse bestemmes ved lov.
+
+Høyesterett skal bestå av en justitiarius og minst fire andre medlemmer.
+
+0	Endret ved grunnlovsvedtak 29 nov 1862, 25 feb 1911, 13 juni 1938 kunngjort 24 juni 1938, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 89.
+I saker som reises for domstolene, har domstolene rett og plikt til å prøve om det strider mot Grunnloven å anvende en lovbestemmelse, og om det strider mot Grunnloven eller landets lover å anvende andre beslutninger truffet under utøving av offentlig myndighet.
+
+0	Opphevet ved grunnlovsvedtak 14 des 1920 kunngjort 17 des 1920, tilføyd igjen ved grunnlovsvedtak 1 juni 2015 kunngjort ved res. 12 juni 2015 nr. 623, endret ved grunnlovsvedtak 14 mai 2020 kunngjort ved res. 29 mai 2020 nr. 1086.
+§ 90.
+Høyesteretts dommer kan i intet tilfelle påankes.
+
+0	Endret ved grunnlovsvedtak 28 feb 1914 kunngjort 6 mars 1914, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+§ 91.
+Ingen kan beskikkes til medlem av Høyesterett før han eller hun er 30 år gammel.
+
+0	Endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613.
+E. Menneskerettigheter
+0	Overskriften endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, 13 mai 2014 kunngjort ved res. 14 mai 2014 nr. 628, vedtak 27 mai 2014 kunngjort ved res. 20 juni 2014 nr. 778.
+§ 92.
+Statens myndigheter skal respektere og sikre menneskerettighetene slik de er nedfelt i denne grunnlov og i for Norge bindende traktater om menneskerettigheter.
+
+0	Tilføyd ved grunnlovsvedtak 13 mai 2014 kunngjort ved res. 14 mai 2014 nr. 628, endret ved vedtak 27 mai 2014 kunngjort ved res. 20 juni 2014 nr. 778.
+§ 93.
+Ethvert menneske har rett til liv. Ingen kan dømmes til døden.
+
+Ingen må utsettes for tortur eller annen umenneskelig eller nedverdigende behandling eller straff.
+
+Ingen skal holdes i slaveri eller tvangsarbeid.
+
+Statens myndigheter skal beskytte retten til liv og bekjempe tortur, slaveri, tvangsarbeid og andre former for umenneskelig eller nedverdigende behandling.
+
+0	Tilføyd ved grunnlovsvedtak 13 mai 2014 kunngjort ved res. 14 mai 2014 nr. 628, endret ved vedtak 27 mai 2014 kunngjort ved res. 20 juni 2014 nr. 778.
+§ 94.
+Ingen må fengsles eller berøves friheten på annen måte uten i lovbestemte tilfeller og på den måte som lovene foreskriver. Frihetsberøvelsen må være nødvendig og ikke utgjøre et uforholdsmessig inngrep.
+
+Den pågrepne skal snarest mulig fremstilles for en domstol. Andre som er berøvet sin frihet, kan få frihetsberøvelsen prøvet for domstolene uten ugrunnet opphold.
+
+De som uberettiget har arrestert noen eller ulovlig holdt noen fengslet, står til ansvar for vedkommende.
+
+0	Endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, opphevet ved grunnlovsvedtak 13 mai 2014 kunngjort ved res. 14 mai 2014 nr. 628, tilføyd igjen ved grunnlovsvedtak 13 mai 2014 kunngjort ved res. 14 mai 2014 nr. 628, endret ved vedtak 27 mai 2014 kunngjort ved res. 20 juni 2014 nr. 778.
+§ 95.
+Enhver har rett til å få sin sak avgjort av en uavhengig og upartisk domstol innen rimelig tid. Rettergangen skal være rettferdig og offentlig. Retten kan likevel lukke rettsmøtet dersom hensynet til partenes privatliv eller tungtveiende allmenne interesser gjør det nødvendig.
+
+Statens myndigheter skal sikre domstolenes og dommernes uavhengighet og upartiskhet.
+
+0	Endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, opphevet ved grunnlovsvedtak 13 mai 2014 kunngjort ved res. 14 mai 2014 nr. 628, tilføyd igjen ved grunnlovsvedtak 13 mai 2014 kunngjort ved res. 14 mai 2014 nr. 628, endret ved vedtak 27 mai 2014 kunngjort ved res. 20 juni 2014 nr. 778.
+§ 96.
+Ingen kan dømmes uten etter lov eller straffes uten etter dom.
+
+Enhver har rett til å bli ansett som uskyldig inntil skyld er bevist etter loven.
+
+Ingen kan dømmes til å avstå fast eiendom eller samlet formue, med mindre verdiene er benyttet til eller er utbytte fra en straffbar handling.
+
+0	Endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, 13 mai 2014 kunngjort ved res. 14 mai 2014 nr. 628, vedtak 27 mai 2014 kunngjort ved res. 20 juni 2014 nr. 778.
+§ 97.
+Ingen lov må gis tilbakevirkende kraft.
+
+0	Endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, vedtak 27 mai 2014 kunngjort ved res. 20 juni 2014 nr. 778.
+§ 98.
+Alle er like for loven.
+
+Intet menneske må utsettes for usaklig eller uforholdsmessig forskjellsbehandling.
+
+0	Endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, opphevet ved grunnlovsvedtak 13 mai 2014 kunngjort ved res. 14 mai 2014 nr. 628, tilføyd igjen ved grunnlovsvedtak 13 mai 2014 kunngjort ved res. 14 mai 2014 nr. 628, endret ved vedtak 27 mai 2014 kunngjort ved res. 20 juni 2014 nr. 778.
+§ 99.
+(Opphevet ved grunnlovsvedtak 13 mai 2014 kunngjort ved res. 14 mai 2014 nr. 628.)
+
+0	Endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, opphevet ved grunnlovsvedtak 13 mai 2014 kunngjort ved res. 14 mai 2014 nr. 628.
+§ 100.
+Ytringsfrihet bør finne sted.
+
+Ingen kan holdes rettslig ansvarlig for å ha meddelt eller mottatt opplysninger, ideer og budskap med mindre det lar seg forsvare holdt opp imot ytringsfrihetens begrunnelse i sannhetssøken, demokrati og individets frie meningsdannelse. Det rettslige ansvar bør være foreskrevet i lov.
+
+Frimodige ytringer om statsstyret og hvilken som helst annen gjenstand er tillatt for enhver. Det kan bare settes klart definerte grenser for denne rett der særlig tungtveiende hensyn gjør det forsvarlig holdt opp imot ytringsfrihetens begrunnelser.
+
+Forhåndssensur og andre forebyggende forholdsregler kan ikke benyttes med mindre det er nødvendig for å beskytte barn og unge mot skadelig påvirkning fra levende bilder. Brevsensur kan ikke settes i verk utenfor anstalter.
+
+Enhver har rett til innsyn i statens og kommunenes dokumenter og til å følge forhandlingene i rettsmøter og folkevalgte organer. Det kan i lov fastsettes begrensninger i denne rett ut fra hensyn til personvern og av andre tungtveiende grunner.
+
+Det påligger statens myndigheter å legge forholdene til rette for en åpen og opplyst offentlig samtale.
+
+0	Endret ved grunnlovsvedtak 30 sep 2004 kunngjort ved res. 29 okt 2004 nr. 1402, 2 feb 2006 kunngjort ved res. 3 mars 2006 nr. 271, 27 mai 2010 kunngjort ved res. 18 juni 2010 nr. 825, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, vedtak 27 mai 2014 kunngjort ved res. 20 juni 2014 nr. 778.
+§ 101.
+Enhver har rett til å danne, slutte seg til og melde seg ut av foreninger, herunder fagforeninger og politiske partier.
+
+Alle kan møtes i fredelige forsamlinger og demonstrasjoner.
+
+0	Endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, opphevet ved grunnlovsvedtak 13 mai 2014 kunngjort ved res. 14 mai 2014 nr. 628, tilføyd igjen ved grunnlovsvedtak 13 mai 2014 kunngjort ved res. 14 mai 2014 nr. 628, endret ved vedtak 27 mai 2014 kunngjort ved res. 20 juni 2014 nr. 778, 14 mai 2020 kunngjort ved res. 29 mai 2020 nr. 1085.
+§ 102.
+Enhver har rett til respekt for sitt privatliv og familieliv, sitt hjem og sin kommunikasjon. Husransakelse må ikke finne sted, unntatt i kriminelle tilfeller.
+
+Statens myndigheter skal sikre et vern om den personlige integritet.
+
+0	Endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, opphevet ved grunnlovsvedtak 13 mai 2014 kunngjort ved res. 14 mai 2014 nr. 628, tilføyd igjen ved grunnlovsvedtak 13 mai 2014 kunngjort ved res. 14 mai 2014 nr. 628, vedtak 27 mai 2014 kunngjort ved res. 20 juni 2014 nr. 778.
+§ 103.
+(Opphevet ved grunnlovsvedtak 13 mai 2014 kunngjort ved res. 14 mai 2014 nr. 628).
+
+0	Endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, opphevet ved grunnlovsvedtak 13 mai 2014 kunngjort ved res. 14 mai 2014 nr. 628.
+§ 104.
+Barn har krav på respekt for sitt menneskeverd. De har rett til å bli hørt i spørsmål som gjelder dem selv, og deres mening skal tillegges vekt i overensstemmelse med deres alder og utvikling.
+
+Ved handlinger og avgjørelser som berører barn, skal barnets beste være et grunnleggende hensyn.
+
+Barn har rett til vern om sin personlige integritet. Statens myndigheter skal legge forholdene til rette for barnets utvikling, herunder sikre at barnet får den nødvendige økonomiske, sosiale og helsemessige trygghet, fortrinnsvis i egen familie.
+
+0	Endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, opphevet ved grunnlovsvedtak 13 mai 2014 kunngjort ved res. 14 mai 2014 nr. 628, tilføyd igjen ved grunnlovsvedtak 13 mai 2014 kunngjort ved res. 14 mai 2014 nr. 628, endret ved vedtak 27 mai 2014 kunngjort ved res. 20 juni 2014 nr. 778.
+§ 105.
+Fordrer statens tarv at noen må avgi sin rørlige eller urørlige eiendom til offentlig bruk, så bør han eller hun ha full erstatning av statskassen.
+
+0	Endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, vedtak 27 mai 2014 kunngjort ved res. 20 juni 2014 nr. 778.
+§ 106.
+Enhver som oppholder seg lovlig i riket, kan fritt bevege seg innenfor rikets grenser og velge sitt bosted der.
+
+Ingen kan nektes å forlate riket med mindre det er nødvendig av hensyn til en effektiv rettsforfølgelse eller for avtjening av verneplikt. Norske statsborgere kan ikke nektes adgang til riket.
+
+0	Tilføyd ved grunnlovsvedtak 13 mai 2014 kunngjort ved res. 14 mai 2014 nr. 628, endret ved vedtak 27 mai 2014 kunngjort ved res. 20 juni 2014 nr. 778.
+§ 107.
+0	Endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, vedtak 27 mai 2014 kunngjort ved res. 20 juni 2014 nr. 778, innholdet i tidligere § 107 står nå i § 117.
+§ 108.
+Det påligger statens myndigheter å legge forholdene til rette for at den samiske folkegruppe kan sikre og utvikle sitt språk, sin kultur og sitt samfunnsliv.
+
+0	Endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, vedtak 27 mai 2014 kunngjort ved res. 20 juni 2014 nr. 778, innholdet i tidligere § 108 står nå i § 118, mens innholdet her tidligere sto i § 110 a.
+§ 109.
+Enhver har rett til utdannelse. Barn har rett til å motta grunnleggende opplæring. Opplæringen skal ivareta den enkeltes evner og behov og fremme respekt for demokratiet, rettsstaten og menneskerettighetene.
+
+Statens myndigheter skal sikre adgang til videregående opplæring og like muligheter til høyere utdannelse på grunnlag av kvalifikasjoner.
+
+0	Tilføyd ved grunnlovsvedtak 13 mai 2014 kunngjort ved res. 14 mai 2014 nr. 628, endret ved vedtak 27 mai 2014 kunngjort ved res. 20 juni 2014 nr. 778.
+§ 110.
+Statens myndigheter skal legge forholdene til rette for at ethvert arbeidsdyktig menneske kan tjene til livets opphold ved arbeid eller næring. Den som ikke selv kan sørge for sitt livsopphold, har rett til støtte fra det offentlige.
+
+Nærmere bestemmelser om ansattes medbestemmelsesrett på sin arbeidsplass fastsettes ved lov.
+
+0	Opphevet ved grunnlovsvedtak 5 juni 1925 kunngjort 12 juni 1925, tilføyd ved grunnlovsvedtak 16 nov 1954 kunngjort 26 nov 1954, endret ved grunnlovsvedtak 5 mai 1980 kunngjort 30 mai 1980, 2 feb 2006 kunngjort ved res. 3 mars 2006 nr. 270, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, 13 mai 2014 kunngjort ved res. 14 mai 2014 nr. 628, vedtak 27 mai 2014 kunngjort ved res. 20 juni 2014 nr. 778.
+§ 111.
+0	Endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, vedtak 27 mai 2014 kunngjort ved res. 20 juni 2014 nr. 778, innholdet står nå i § 120.
+§ 112.
+Enhver har rett til et miljø som sikrer helsen, og til en natur der produksjonsevne og mangfold bevares. Naturens ressurser skal disponeres ut fra en langsiktig og allsidig betraktning som ivaretar denne rett også for etterslekten.
+
+Borgerne har rett til kunnskap om naturmiljøets tilstand og om virkningene av planlagte og iverksatte inngrep i naturen, slik at de kan ivareta den rett de har etter foregående ledd.
+
+Statens myndigheter skal iverksette tiltak som gjennomfører disse grunnsetninger.
+
+0	Tilføyd ved grunnlovsvedtak 25 mai 1992 kunngjort ved res. 19 juni 1992 nr. 463, endret ved grunnlovsvedtak 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, 13 mai 2014 kunngjort ved res. 14 mai 2014 nr. 628, tidligere § 110 b, vedtak 27 mai 2014 kunngjort ved res. 20 juni 2014 nr. 778.
+§ 113.
+Myndighetenes inngrep overfor den enkelte må ha grunnlag i lov.
+
+0	Tilføyd ved grunnlovsvedtak 13 mai 2014 kunngjort ved res. 14 mai 2014 nr. 628, endret ved vedtak 27 mai 2014 kunngjort ved res. 20 juni 2014 nr. 778.
+F. Alminnelige bestemmelser
+0	Overskriften tilføyd ved grunnlovsvedtak 13 mai 2014 kunngjort ved res. 14 mai 2014 nr. 628, endret ved vedtak 27 mai 2014 kunngjort ved res. 20 juni 2014 nr. 778.
+§ 114.
+Til embeter i staten må utnevnes bare de norske borgere, menn eller kvinner, som taler landets språk, samt
+
+a.	enten er født i riket av foreldre som på det tidspunkt var norske statsborgere
+b.	eller er født i utlandet av norske foreldre som på den tid ikke var statsborgere i noe annet land
+c.	eller heretter oppholder seg i riket i ti år
+d.	eller blir naturalisert av Stortinget.
+Dog kan andre beskikkes til lærere ved Universitetet og de lærde skoler, til leger og til konsuler på fremmede steder.
+
+0	Endret ved grunnlovsvedtak 15 juni 1878, 4 juni 1892, 19 mars 1901, 15 mai 1919 kunngjort 24 mai 1919, 10 juni 1952 kunngjort 28 juni 1952, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, 13 mai 2014 kunngjort med res. 14 mai 2014 nr. 628, vedtak 27 mai 2014 kunngjort ved res. 20 juni 2014 nr. 778, tidligere § 92.
+§ 115.
+For å sikre den internasjonale fred og sikkerhet eller fremme internasjonal rettsorden og samarbeid kan Stortinget med tre fjerdedels flertall samtykke i at en internasjonal sammenslutning som Norge er tilsluttet eller slutter seg til, på et saklig begrenset område skal ha rett til å utøve beføyelser som etter denne Grunnlov ellers tilligger statens myndigheter, dog ikke beføyelse til å forandre denne Grunnlov. Når Stortinget skal gi sitt samtykke, bør, som ved behandling av grunnlovsforslag, minst to tredjedeler av dets medlemmer være til stede.
+
+Bestemmelsene i denne paragraf gjelder ikke ved deltagelse i en internasjonal sammenslutning hvis beslutninger bare har rent folkerettslig virkning for Norge.
+
+0	Opphevet ved vedtak 18 nov 1905, tilføyd ved grunnlovsvedtak 8 mars 1962 kunngjort 23 mars 1962, endret ved grunnlovsvedtak 2 feb 2006 kunngjort ved res. 3 mars 2006 nr. 270, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, 13 mai 2014 kunngjort ved res. 14 mai 2014 nr. 628, vedtak 27 mai 2014 kunngjort ved res. 20 juni 2014 nr. 778, tidligere § 93.
+§ 116.
+Milde stiftelsers eiendommer skal bare anvendes til gagn for disse.
+
+0	Endret ved grunnlovsvedtak 27 mai 2010 kunngjort ved res. 18 juni 2010 nr. 826, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, 13 mai 2014 kunngjort ved res. 14 mai 2014 nr. 628, vedtak 27 mai 2014 kunngjort ved res. 20 juni 2014 nr. 778, tidligere § 106, vedtak 12 jan 2023 kunngjort ved res. 27 jan 2023 nr. 92.
+§ 117.
+Odels- og åsetesretten må ikke oppheves. De nærmere betingelser for hvordan den skal bestå til støtte for staten og til gagn for landallmuen, fastsettes av det første eller annet følgende storting.
+
+0	Endret ved vedtak 27 mai 2014 kunngjort ved res. 20 juni 2014 nr. 778, tidligere § 107.
+§ 118.
+Ingen grevskaper, baronier, stamhus og fideikommisser må for ettertiden opprettes.
+
+0	Endret ved vedtak 27 mai 2014 kunngjort ved res. 20 juni 2014 nr. 778, tidligere § 108.
+§ 119.
+Enhver statens borger er i alminnelighet like forpliktet til i en viss tid å verne om sitt fedreland, uten hensyn til fødsel eller formue.
+
+Anvendelsen av denne grunnsetning og de begrensninger den bør ha, bestemmes ved lov.
+
+0	Endret ved grunnlovsvedtak 12 apr 1907, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, 13 mai 2014 kunngjort ved res. 14 mai 2014 nr. 628, vedtak 27 mai 2014 kunngjort ved res. 20 juni 2014 nr. 778, tidligere § 109.
+§ 120.
+Det norske flaggs form og farger bestemmes ved lov.
+
+0	Endret ved grunnlovsvedtak 21 nov 1905, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, vedtak 27 mai 2014 kunngjort ved res. 20 juni 2014 nr. 778, tidligere § 111.
+§ 120 a.
+Norges Bank er landets sentralbank.
+
+0	Tilføyd ved grunnlovsvedtak 14 mai 2020 kunngjort ved res. 29 mai 2020 nr. 1088, tidligere § 33.
+§ 121.
+Viser erfaring at noen del av denne kongeriket Norges Grunnlov bør forandres, skal forslag derom fremsettes på første, annet eller tredje storting etter et nytt valg og kunngjøres ved trykken. Men det tilkommer først det første, annet eller tredje storting etter neste valg å bestemme om den foreslåtte forandring bør finne sted eller ei. Dog må en slik forandring aldri motsi denne Grunnlovs prinsipper, men bare angå slike modifikasjoner i enkelte bestemmelser som ikke forandrer denne konstitusjons ånd, og to tredjedeler av Stortinget bør være enige i en slik forandring.
+
+En således vedtatt grunnlovsbestemmelse underskrives av Stortingets president og sekretær og sendes kongen til kunngjøring ved trykken som gjeldende bestemmelse i kongeriket Norges Grunnlov.
+
+0	Endret ved grunnlovsvedtak 24 apr 1869, 9 okt 1905, 16 juli 1907, 11 juni 1913 kunngjort 7 juli 1913, 24 juni 1946 kunngjort 5 juli 1946, 29 mai 1990 kunngjort ved res. 13 juli 1990 nr. 550, 6 mai 2014 kunngjort ved res. 9 mai 2014 nr. 613, 13 mai 2014 kunngjort ved res. 14 mai 2014 nr. 628, vedtak 27 mai 2014 kunngjort ved res. 20 juni 2014 nr. 778, tidligere § 112.
